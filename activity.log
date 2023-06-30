@@ -918,3 +918,4 @@
 2023-06-30T00:00:00 - 5 - Refactor model architecture for better performance
 2023-06-30T00:00:00 - 6 - Fix issue with model saving and loading
 2023-06-30T00:00:00 - 7 - Add comments to complex functions
+2023-06-30T00:00:00 - 8 - Fix minor bugs in data preprocessing
