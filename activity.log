@@ -1702,3 +1702,4 @@
 2023-11-22T00:00:00 - 8 - Update dependencies in requirements.txt
 2023-11-22T00:00:00 - 9 - Add unit tests for core modules
 2023-11-22T00:00:00 - 10 - Update documentation and README
+2023-11-22T00:00:00 - 11 - Improve error handling in API endpoints
