@@ -1873,3 +1873,4 @@
 2024-08-23T00:00:00 - 8 - Update dependencies in requirements.txt
 2024-08-23T00:00:00 - 9 - Fix minor bugs in data preprocessing
 2024-08-23T00:00:00 - 10 - Add support for new dataset
+2024-08-23T00:00:00 - 11 - Improve error handling in API endpoints
