@@ -231,3 +231,4 @@
 2024-12-26T00:00:00 - 5 - Clean up code and remove unused imports
 2024-12-26T00:00:00 - 6 - Update dependencies in requirements.txt
 2024-12-26T00:00:00 - 7 - Refactor model architecture for better performance
+2024-12-26T00:00:00 - 8 - Add unit tests for core modules
