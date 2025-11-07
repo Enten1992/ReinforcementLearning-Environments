@@ -1552,3 +1552,4 @@
 2025-10-30T00:00:00 - 5 - Add support for new dataset
 2025-11-07T00:00:00 - 0 - Refactor model architecture for better performance
 2025-11-07T00:00:00 - 1 - Refactor model architecture for better performance
+2025-11-07T00:00:00 - 2 - Add unit tests for core modules
