@@ -801,3 +801,4 @@
 2026-01-12T00:00:00 - 17 - Add unit tests for core modules
 2026-01-15T00:00:00 - 0 - Update documentation and README
 2026-01-15T00:00:00 - 1 - Adjust hyperparameters for better convergence
+2026-01-15T00:00:00 - 2 - Improve error handling in API endpoints
